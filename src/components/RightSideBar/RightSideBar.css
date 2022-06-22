@@ -1,0 +1,127 @@
+.rightbar{
+    position: relative;
+    padding: 25px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+.rightbar h2{
+    font-size: 16px;
+    /* margin-bottom: 10px; */
+}
+.rightbar p{
+    color: #bababa;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+.rightbar-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.rightbar-heading img{
+    margin-left: 130px;
+}
+.rightbar-highlight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    
+}
+.rightbar-highlight-img{
+margin-right: 10px;
+position: relative;
+
+
+}
+
+.rightbar-highlight-img img:first-of-type{
+   height: 40px;
+   width: 40px;
+ 
+}
+ .music-bars{
+    position: absolute;
+  left: 13px;
+  top: 14px;
+  text-align: center;
+  height: 15px;
+  width: 15px;
+    
+}
+.rightbar-highlight-text h3{
+    font-size: 13px;
+    padding-top: 5px;
+}
+.rightbar-highlight-text p{
+    font-size: 11px;
+}
+.rightbar-highlight-btn{
+    margin-left:  40px;
+}
+.rightbar-highlight-btn a{
+    color: #000;
+    background-color: #fff;
+    padding: 8px 20px;
+    border-radius: 100px;
+    text-align: center;
+}
+.rightbar-highlight-btn a:hover{
+    background-color:#18c96a;
+    color: #fff;
+}
+.rightbar-scrollgroup{
+    position: relative;
+ 
+}
+.scrollgroup{
+    width: 100%;
+}
+.scrolldiv{
+    height: 43px;
+    width: 2px;
+    background-color: #fff;
+    position: absolute;
+   bottom: 3px;
+   left: 120px;
+}
+.rightbar-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 14px 0; */
+}
+.rightbar-section-area{
+    display: flex;
+    border-bottom: 1px solid #292828;
+    
+    /* width: 100%; */
+    padding: 10px 0;
+    justify-content: center;
+    align-items: center;
+   
+}
+.rightbar-section-area h3{
+    font-size: 14px;
+    padding-top: 8px;
+}
+.rightbar-section-area p{
+    font-size: 12px;
+}
+.rightbar-section-area div{
+    margin-left: 10px;
+    /* margin-right: 10px; */
+}
+.rightbar-section-icon{
+    padding-left: 100px;
+    cursor: pointer;
+}
+.rightbar-section-icon img{
+    height: 15px;
+    width: 15px;
+}

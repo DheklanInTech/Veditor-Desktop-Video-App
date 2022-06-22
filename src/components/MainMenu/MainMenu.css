@@ -1,0 +1,32 @@
+.main__menu{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 14px 18px;
+    gap: 18px;
+}
+.menu{
+    background-color: black;
+    height: 70vh;
+    border-radius: 10px;
+}
+/* .left__menu{
+ width: 319px; 
+}
+.right__menu{
+ width: 319px; 
+
+} */
+.center__menu{
+    min-width: 650px;
+    height: 60vh;
+}
+@media screen and (max-width: 1150px ){
+  .center__menu{
+      min-width: 400px;
+  }
+}
+/* @media screen and (max-width: 1150px ){
+    body{
+        display: none;
+    }
+} */
