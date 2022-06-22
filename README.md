@@ -2,7 +2,7 @@
 # Veditor Desktop App Landing Page
 ### [Live Site](https://vedittor.netlify.app/)
 
-![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/layout1.jpeg)
+![Veditor Landing Page]
  <img align="center" alt="declan" width="1000" src="layout1.jpeg">
 
 
